@@ -1,4 +1,4 @@
-micro front app one
+### micro front app one
 
-npm i
-npm start
+- npm i
+- npm start
